@@ -3,6 +3,11 @@
 ## create-svelte
 
 ```
+export UID=$(id -u)
+export UID
+```
+
+```
 docker compose run create
 ```
 
