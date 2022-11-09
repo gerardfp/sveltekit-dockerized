@@ -12,4 +12,4 @@ docker compose run create
 docker compose up
 ```
 
-got to http://localhost:2000
+go to http://localhost:2000
