@@ -9,7 +9,7 @@ docker compose run create
 ## run dev
 
 ```
-`docker compose up
+docker compose up
 ```
 
 got to http://localhost:2000
